@@ -17,7 +17,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/RobertByrnes/Emulation.git"
+    "url": "https://github.com/marinetechsys/Emulation.git"
   },
   "authors":
   [
@@ -36,7 +36,7 @@
   "dependencies": [
     {
         "name": "ArduinoFake",
-        "version": "https://github.com/RobertByrnes/ArduinoFake.git#master"
+        "version": "https://github.com/marinetechsys/ArduinoFake.git#master"
     },
     {
         "name": "Unity",
